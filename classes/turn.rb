@@ -1,4 +1,4 @@
-require './question'
+require_relative 'question'
 
 class Turn
   def initialize(player)
